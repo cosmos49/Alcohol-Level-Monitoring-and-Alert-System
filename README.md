@@ -3,6 +3,9 @@
 A real-time alcohol monitoring and alert system built with **Arduino**, **MQ-3 gas sensor**, **I2C LCD**, **buzzer**, and **LED**. This system detects the presence of alcohol in the air and issues visual and audio warnings when levels exceed a defined safety threshold.
 
 ---
+![Image](https://github.com/user-attachments/assets/c01be09c-0506-4ceb-b595-9b00e2c47e24)
+
+---
 
 ## 🛠️ Features
 
